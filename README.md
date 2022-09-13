@@ -7,11 +7,6 @@
 ###
 
 
-<div align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=sqs-huge-message&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=COVID-MG&show_icons=true" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=ShaolimBot&show_icons=true" alt="My github stats">
-</div>
 
 
 
