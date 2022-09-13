@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on **HTML**, **CSS** and **JavaScript** languages.
 - 🌱 I’m currently learning **React**
 
-###
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=FernandoAlmeida2&count_private=true&show_icons=true" alt="My github stats">
 
 
 
