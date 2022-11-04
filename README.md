@@ -31,6 +31,7 @@ Hello, I'm Fernando Almeida, a physics graduate and master who is currently purs
      <img src="https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000" height="22px" />
      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="22px" />
      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="22px" />
+     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="22px" />
   </div>
 
 <br/>
