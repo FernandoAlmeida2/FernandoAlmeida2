@@ -41,13 +41,13 @@ Hello, I'm Fernando Almeida, a physics graduate and master who is currently purs
 **My GitHub stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoAlmeida2&count_private=true&show_icons=true&theme=flag-india"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FernandoAlmeida2&count_private=true&show_icons=true&theme=flag-india"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoAlmeida2&layout=compact&theme=flag-india" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FernandoAlmeida2&layout=compact&theme=flag-india" />
 </a>
 
 <br/>
