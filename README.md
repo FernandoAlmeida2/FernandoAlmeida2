@@ -7,7 +7,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=FernandoAlmeida2.FernandoAlmeida2&left_color=green&right_color=orange" alt="visitor badge"/>
 
 
-Hello, I'm Fernando Almeida, a physics graduate and master who is currently pursuing a career as a full stack developer.  In the early 2008s, when I enrolled the graduation in computer engineering, I acquired a strong interest for coding. I had a great experience studying the basis of software engineering, even though I didn't finish the course (about 5 semesters). However, I began to apply my knowledge to physics while working on computer simulations. That was a wonderful experience as well. I'm currently studying on a bootcamp training program for web developers (Driven Education) and I'm really excited in doing it! I'm currently studying **Node.js**.
+Hello, I'm Fernando Almeida, a physics graduate and master who is currently pursuing a career as a full stack developer.  In the early 2008s, when I enrolled the graduation in computer engineering, I acquired a strong interest for coding. I had a great experience studying the basis of software engineering, even though I didn't finish the course (about 5 semesters). However, I began to apply my knowledge to physics while working on computer simulations. That was a wonderful experience as well. I'm currently studying on a bootcamp training program for web developers (Driven Education) and I'm really excited in doing it!
 
 
 **Languages and tools:**
@@ -32,6 +32,8 @@ Hello, I'm Fernando Almeida, a physics graduate and master who is currently purs
      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="22px" />
      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="22px" />
      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="22px" />
+     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="22px" />
+     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="22px" />
   </div>
 
 <br/>
