@@ -4,7 +4,7 @@
   <img align="left" alt="Fernando's LinkedIN" height="20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img align="left" alt="Fernando's gmail" height="20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=FernandoAlmeida2.FernandoAlmeida2&left_color=green&right_color=orange" alt="visitor badge"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFernandoAlmeida2%2FFernandoAlmeida2&labelColor=%232fbc6a&countColor=%23263759&style=flat-square" alt="visitor badge"/>
 
 
 Hello, I'm Fernando Almeida, a physics graduate and master who is currently pursuing a career as a full stack developer.  In the early 2008s, when I enrolled the graduation in computer engineering, I acquired a strong interest for coding. I had a great experience studying the basis of software engineering, even though I didn't finish the course (about 5 semesters). However, I began to apply my knowledge to physics while working on computer simulations. That was a wonderful experience as well. I'm currently studying on a bootcamp training program for web developers (Driven Education) and I'm really excited in doing it!
