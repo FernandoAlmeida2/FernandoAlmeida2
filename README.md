@@ -68,11 +68,11 @@ Hello, I'm Fernando Almeida, a physics graduate and master who is currently purs
 <br/>
 <br/>
 
-**My weekly stats:**
+<!-- **My weekly stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fernando_Almeida&v=2&theme=flag-india" />
-</a>
+</a> -->
 
 <!--
 **FernandoAlmeida2/FernandoAlmeida2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
