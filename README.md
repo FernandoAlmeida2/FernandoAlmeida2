@@ -53,7 +53,7 @@ Hello, I'm Fernando Almeida, a physics graduate and master who is currently a fu
 
 <br/>
 
-**My GitHub stats:**
+<!-- **My GitHub stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FernandoAlmeida2&count_private=true&show_icons=true&theme=flag-india"/>
@@ -68,11 +68,63 @@ Hello, I'm Fernando Almeida, a physics graduate and master who is currently a fu
 <br/>
 <br/>
 
-<!-- **My weekly stats:**
+**My weekly stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fernando_Almeida&v=2&theme=flag-india" />
 </a> -->
+
+# Projects
+
+## Placemaking Insper (Oct 2024 – Jan 2025)
+[🔗 Project Link](https://cautech.shinyapps.io/placemaking_cultura_artistica/)  
+**Institution:** Insper – Arq.Futuro Lab  
+
+Platform presenting research and data from the *Cultura Artística* placemaking project.  
+- Developed the entire **frontend** in **R Shiny**, including dashboard models.  
+- Implemented interactive data visualizations using **Leaflet** and **echarts4r**.  
+- Delivered a user-friendly interface for presenting survey results.  
+
+**Technologies:** R Shiny · Leaflet · echarts4r · Data Visualization · Clean Code  
+
+---
+
+## Desigual Lab Website (Feb 2024 – Mar 2024)
+[🔗 Project Link](https://desiguallab.ipplan.fortaleza.ce.gov.br/)  
+**Institution:** Instituto de Planejamento de Fortaleza (Ipplan)  
+
+Website for the *Desigual Lab*, a program dedicated to designing and evaluating public policies.  
+- Implemented all website functionalities.  
+- Developed the **“Map of Inequality”**, presenting socio-economic indicators by neighborhood.  
+- Ensured responsive UI with **Next.js and TypeScript**.  
+
+**Technologies:** Next.js · TypeScript · HTML · CSS  
+
+---
+
+## Fortaleza Limpa Website (Nov 2023 – Dec 2023)
+**Institution:** Instituto de Planejamento de Fortaleza (Ipplan)  
+
+Frontend project for the *Fortaleza Limpa* initiative, promoting public programs on solid waste management.  
+- Contributed to the **frontend development** of the platform.  
+- Built UI components with **Laravel, Blade Template, and Bootstrap**.  
+
+**Technologies:** Laravel · Blade · Bootstrap  
+
+---
+
+## Solid Waste Observatory (Sep 2023 – Oct 2023)
+[🔗 GitLab Repository](https://gitlab.com/DIOBS/obsr/dashboard)  
+**Institution:** Instituto de Planejamento de Fortaleza (Ipplan)  
+
+Digital observatory presenting real-time data on household waste collection and recycling in Fortaleza.  
+- Expanded and debugged features such as **“Residuômetro”** and **“Reciclômetro”**.  
+- Developed new modules: **Collection Points, Delivery Points, and Waste Map**.  
+- Created data ingestion scripts in **R**, and modeled PostgreSQL tables for 2024.  
+
+**Technologies:** R · R Shiny · PostgreSQL · Leaflet · Bootstrap  
+
+---
 
 <!--
 **FernandoAlmeida2/FernandoAlmeida2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
