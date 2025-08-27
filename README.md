@@ -103,6 +103,7 @@ Website for the *Desigual Lab*, a program dedicated to designing and evaluating 
 ---
 
 ## Fortaleza Limpa Website (Nov 2023 – Dec 2023)
+[🔗 Project Link](https://fortalezalimpa.fortaleza.ce.gov.br/)  
 **Institution:** Instituto de Planejamento de Fortaleza (Ipplan)  
 
 Frontend project for the *Fortaleza Limpa* initiative, promoting public programs on solid waste management.  
@@ -114,7 +115,7 @@ Frontend project for the *Fortaleza Limpa* initiative, promoting public programs
 ---
 
 ## Solid Waste Observatory (Sep 2023 – Oct 2023)
-[🔗 GitLab Repository](https://gitlab.com/DIOBS/obsr/dashboard)  
+[🔗 Project Link](https://observatorio.fortaleza.ce.gov.br/dados/painel/obsr/)  
 **Institution:** Instituto de Planejamento de Fortaleza (Ipplan)  
 
 Digital observatory presenting real-time data on household waste collection and recycling in Fortaleza.  
