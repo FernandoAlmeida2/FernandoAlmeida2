@@ -7,7 +7,13 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFernandoAlmeida2%2FFernandoAlmeida2&labelColor=%232fbc6a&countColor=%23263759&style=flat-square" alt="visitor badge"/>
 
 
-Hello, I'm Fernando Almeida, a physics graduate and master who is currently a full stack developer.  In the early 2008s, when I enrolled the graduation in computer engineering, I acquired a strong interest for coding. I had a great experience studying the basis of software engineering, even though I didn't finish the course (about 5 semesters). However, I began to apply my knowledge to physics while working on computer simulations. That was a wonderful experience as well. In 2023, I finished a 9 month's duration bootcamp training program for web developers (Driven Education) which gave me a huge contribution to my programming skills, besides important soft skills useful in an environment work. From September 2023 to March 2025, I worked at Ipplan Fortaleza as a developer and data analyst, gaining hands-on experience in software development and data-driven decision-making
+I’m a Physics graduate with a Master’s degree and a strong background in computational modeling. My path into software development began early in academia, where I combined programming with scientific research and built computer simulations. This experience shaped my analytical thinking, problem-solving approach, and curiosity for how complex systems work.
+
+From September 2023 to March 2025, I worked as a Software Developer at the Instituto de Pesquisa e Planejamento de Fortaleza (Ipplan), where I developed digital platforms for public initiatives. I contributed to projects such as the Solid Waste Observatory and the websites for the Desigual Lab and Fortaleza Limpa programs, working with technologies like R Shiny, PostgreSQL, Leaflet, React, and Next.js.
+
+I am currently a Full Stack Developer (Part-time) at GREat – Computer Networks, Software Engineering & Systems Lab, where I focus primarily on backend development and infrastructure. My role involves building core services in Java Spring Boot, designing and maintaining PostgreSQL schemas, integrating optimization algorithms, and managing deployment workflows with Docker and GitLab CI/CD. I also collaborate with the frontend team when needed using React and TypeScript.
+
+I’m passionate about creating impactful digital solutions, learning new technologies, and working on projects that blend data, systems thinking, and real-world applications.
 
 
 **Languages and tools:**
