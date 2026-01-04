@@ -17,7 +17,7 @@ I’m a Physics graduate with a Master’s degree and a strong background in com
 
 From September 2023 to March 2025, I worked as a Software Developer at the Instituto de Pesquisa e Planejamento de Fortaleza (Ipplan), where I developed digital platforms for public initiatives. I contributed to projects such as the Solid Waste Observatory and the websites for the Desigual Lab and Fortaleza Limpa programs, working with technologies like R Shiny, PostgreSQL, Leaflet, React, and Next.js.
 
-I am currently a Full Stack Developer (Part-time) at GREat – Computer Networks, Software Engineering & Systems Lab, where I focus primarily on backend development and infrastructure. My role involves building core services in Java Spring Boot, designing and maintaining PostgreSQL schemas, integrating optimization algorithms, and managing deployment workflows with Docker and GitLab CI/CD. I also collaborate with the frontend team when needed using React and TypeScript.
+I am currently a Full Stack Developer (Full-time) at GREat – Computer Networks, Software Engineering & Systems Lab, where I share responsibility roughly 50/50 between backend and frontend. My role involves building core services in Java Spring Boot, designing and maintaining PostgreSQL schemas, integrating optimization algorithms, and managing deployment workflows with Docker and GitLab CI/CD. On the frontend, I work with React + TypeScript to build user flows and dashboards for multiple roles (User, Manager, HR, Driver), focusing on clarity, performance, and maintainability.
 
 I’m passionate about creating impactful digital solutions, learning new technologies, and working on projects that blend data, systems thinking, and real-world applications.
 
